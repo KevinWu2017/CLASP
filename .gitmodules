@@ -1,6 +1,6 @@
 [submodule "include/sputnik"]
 	path = include/sputnik
-	url = git@github.com:google-research/sputnik.git
+	url = git@github.com:KevinWu2017/sputnik.git
 [submodule "include/CLASP/projects/sputnik"]
 	path = include/CLASP/projects/sputnik
-	url = git@github.com:google-research/sputnik.git
+	url = git@github.com:KevinWu2017/sputnik.git
